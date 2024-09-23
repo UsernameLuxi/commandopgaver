@@ -7,6 +7,6 @@ public class Ting
 
     public void lol()
     {
-
+        
     }
 }
