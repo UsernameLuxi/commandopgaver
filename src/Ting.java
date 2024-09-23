@@ -7,10 +7,7 @@ public class Ting
 
     public void lol()
     {
-        DJSADJAASJKKJD
-    }
-
-    public void it() {
+        
     }
 
     public void it() {
