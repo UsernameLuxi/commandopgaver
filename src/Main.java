@@ -3,5 +3,7 @@ public class Main {
         Ting ting = new Ting();
         ting.lol();
         ting.it();
+        ting.lol();
+        ting.lol();
     }
 }
